@@ -44,7 +44,7 @@ Un video recomendado:
 
 ## 🖼️ Imagen
 
-![Imagen de ejemplo](<<https://es.wikipedia.org/wiki/Relaci%C3%B3n_entre_Friedrich_Nietzsche_y_Max_Stirner>>)
+![Imagen de ejemplo](<<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISIOp0n-83xLl1AAdhdT61aSb6NReB1AnHhZuypr9Yd51MdVXVWhsqV7bMfLuqyclZEiH8ScznK16yxu_jHz7d3cENvnUFawPfB-pDU8&s=10>>)
 
 
 
