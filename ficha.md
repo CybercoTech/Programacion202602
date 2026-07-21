@@ -1,7 +1,7 @@
 # <<😉 Anti-fragile>>
 
 ## 👤 Presentación
-Hola, soy **<<Jose MIguel>>** y esta es mi primera ficha en Markdown.
+Hola, soy **<<Jose_MIguel>>** y esta es mi primera ficha en Markdown.
 
 ### 🎯 Objetivo de esta ficha
 Aprender a escribir documentos claros y bonitos usando Markdown.
