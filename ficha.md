@@ -1,4 +1,4 @@
-# <<😉 Anti-fragile>>
+# 😉 Anti-fragile
 
 ## 👤 Presentación
 Hola, soy **<<Jose_MIguel>>** y esta es mi primera ficha en Markdown.
